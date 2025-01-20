@@ -40,7 +40,7 @@ Ensure you have the `quiz.json` file in the same directory as the script. This f
 
 3. **Run the Application**:
 Execute the following command in your terminal:
-streamlit run app.py
+streamlit run link.py
 
 
 4. **Access the App**:
