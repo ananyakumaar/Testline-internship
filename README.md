@@ -63,7 +63,6 @@ Upon entering a valid User ID, you will see:
 - A summary of weak areas where your average score is below a predefined threshold.
 - Recommendations for improvement based on your performance in specific topics.
 - A trend graph showing how your average scores have changed over time.
-![Screenshot 2025-01-20 193915](https://github.com/user-attachments/assets/b7399514-8c41-4f49-ac93-393addce8ac4)
 ![Screenshot 2025-01-20 193931](https://github.com/user-attachments/assets/7dd0c25c-aab7-406a-8a4c-b458d67fad07)
 
 
